@@ -1,0 +1,37 @@
+[
+    {
+        "id":"1",
+        "name": "js"
+
+    },
+    {
+        "id":"2",
+        "name": "mongpdb"
+    
+    },
+    {
+        "id":"3",
+        "name": "php"
+    
+    },
+    {
+        "id":"4",
+        "name": "python"
+    
+    },
+    {
+        "id":"4",
+        "name": "java"
+    
+    },
+    {
+        "id":"5",
+        "name": "node js"
+    
+    },
+    {
+        "id":"6",
+        "name": "react js"
+    
+    }
+]
