@@ -33,7 +33,7 @@ app.get('/news/:id',(req,res)=>{
 })
 
 app.get("/",(req,res)=>{
-    res.send("heyy")
+    res.send("server is runnging")
 })
 
 app.listen(Port,()=>{
