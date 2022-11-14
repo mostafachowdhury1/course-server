@@ -17,12 +17,6 @@ app.get("/ness",(req,res)=>{
 })
 
 
-app.get('/ness/:id',(req,res)=>{
-    const id=req.params.id;
-    const allnews=ness.find(n=>n.id==id)
-    res.send(allnews)
-})
-
 app.get("/news",(req,res)=>{
     res.send(news)
 })
