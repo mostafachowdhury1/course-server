@@ -1,17 +1,17 @@
 [
     {
         "id":"1",
-        "name": "js"
+        "name": "Mongo Db"
 
     },
     {
         "id":"2",
-        "name": "mongpdb"
+        "name": "React Js"
     
     },
     {
         "id":"3",
-        "name": "php"
+        "name": "   Node Js"
     
     },
     {
@@ -26,12 +26,12 @@
     },
     {
         "id":"5",
-        "name": "node js"
+        "name": "PhP"
     
     },
     {
         "id":"6",
-        "name": "react js"
+        "name": "JavaScript"
     
     }
 ]
